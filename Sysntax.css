@@ -1,0 +1,14 @@
+/* p { colour : blue; } 
+p is a selector.
+color is a property.
+blue is a value.
+*/
+
+/* 
+group of selectors-->
+0
+header , p.inrto {
+    background-color:red;
+    border-radius : 3px ;
+ } 
+ */
